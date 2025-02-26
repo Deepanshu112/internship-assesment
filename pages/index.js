@@ -1,4 +1,4 @@
-import '../styles/globals.css';
+// import '../styles/globals.css';
 // import styles from '../styles/globals.module.css';
 // pages/index.js
 // pages/index.js
